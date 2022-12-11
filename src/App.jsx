@@ -56,7 +56,7 @@ function App()
           </div>
 		  <ul>
 		  	<li className='flex w-[160px] h-[60px]'>
-				<a href="#">Facebook<AiFillFacebook/></a>
+				<a href="https://www.facebook.com/ExcelGRoupLogistics">Facebook<AiFillFacebook/></a>
 		  	</li>
 		  </ul>
 		 
