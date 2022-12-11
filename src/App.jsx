@@ -56,7 +56,7 @@ function App()
           </div>
 		  <ul>
 		  	<li className='flex w-[160px] h-[60px] justify-between items-center'>
-				<a className="flex justify-around items-center w-full bg-blue-600 ml-[120px]" href="https://www.facebook.com/ExcelGRoupLogistics"><AiFillFacebook size="25px"/></a>
+				<a className="flex justify-around items-center w-full bg-blue-600 ml-[120px]" href="https://www.facebook.com/ExcelGRoupLogistics">facebook<AiFillFacebook size="25px"/></a>
 		  	</li>
 		  </ul>
 		 
