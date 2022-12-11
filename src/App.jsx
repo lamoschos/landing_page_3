@@ -55,7 +55,7 @@ function App()
             <a href="#" className="mx-3 hover:opacity-80 duration-150"> Contact</a> 
           </div>
 		  <ul>
-		  	<li>
+		  	<li className='flex w-[160px] h-[60px]'>
 				<a href="#">Facebook<AiFillFacebook/></a>
 		  	</li>
 		  </ul>
