@@ -1,3 +1,5 @@
+import { AiFillFacebook } from "react-icons/ai"
+
 function App() 
 {
   return (
@@ -53,7 +55,7 @@ function App()
             <a href="#" className="mx-3 hover:opacity-80 duration-150"> Contact</a> 
           </div>
 		  <li>
-			<a href="#">Facebook</a>
+			<a href="#">Facebook<AiFillFacebook/></a>
 		  </li>
 
         </div>
