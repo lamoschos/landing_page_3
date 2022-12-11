@@ -51,6 +51,7 @@ function App()
             <a href="#" className="mx-3 hover:opacity-80 duration-150">About Us</a> |  
             <a href="#" className="mx-3 hover:opacity-80 duration-150"> Privacy</a> | 
             <a href="#" className="mx-3 hover:opacity-80 duration-150"> Contact</a> 
+			<MdFacebook />
           </div>
 
         </div>
