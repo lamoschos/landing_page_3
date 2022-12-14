@@ -10,9 +10,9 @@ function App()
 
 				<p className="text-base md:text-lg lg:text-2xl mb-8">Πάμε τα πραγματά σου πάντού στην Ευρώπη!</p>
 
-				{/* <div className="text-lg md:text-2xl lg:text-3xl py-2 px-4 md:py-4 md:px-10 lg:py-6 lg:px-12 bg-white bg-opacity-10 w-fit mx-auto mb-8 rounded-full">
+				<div className="text-lg md:text-2xl lg:text-3xl py-2 px-4 md:py-4 md:px-10 lg:py-6 lg:px-12 bg-white bg-opacity-10 w-fit mx-auto mb-8 rounded-full">
 					943,245 members
-				</div> */}
+				</div>
 
 
         <form
