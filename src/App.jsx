@@ -13,8 +13,9 @@ function App()
 				<div className="text-lg md:text-2xl lg:text-3xl py-2 px-4 md:py-4 md:px-10 lg:py-6 lg:px-12 bg-white bg-opacity-10 w-fit mx-auto mb-8 rounded-full">
 					{/* Excel GRoup Logistics */}
 					<a href="https://excelgrouplogistics.eu/" className="mx-3 hover:opacity-80 duration-150"> Excel GRoup Logistics</a> 
-					<img src="logo_metaforiki.jpg" alt="Girl in a jacket" width="50" height="60"></img>
+					
 				</div>
+				<img src="logo_metaforiki.jpg" width="50" height="60"></img>
 
 
         <form
