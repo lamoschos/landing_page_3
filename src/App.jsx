@@ -5,7 +5,7 @@ function App()
   return (
     <div className='min-h-screen flex flex-col text-white'>
       <main className="container mx-auto px-6 pt-16 flex-1 text-center">
-        <h2 className="text-2xl md:text-4xl lg:text-6xl uppercase">Φθυνη | Γρηγορη | Ασφαλες</h2>
+        <h2 className="text-2xl md:text-4xl lg:text-6xl uppercase">Φθηνη | Γρηγορη | Ασφαλη</h2>
 				<h1 className="text-3xl md:text-6xl lg:text-8xl uppercase font-black mb-8">Μετακoμιση</h1>
 
 				<p className="text-base md:text-lg lg:text-2xl mb-8">Πάμε τα πραγματά σου πάντού στην Ευρώπη όποτε εσυ θες!</p>
